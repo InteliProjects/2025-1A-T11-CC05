@@ -5,7 +5,7 @@
 </div>
 
 
-# 🙋 2025.1  - Módulo 9: Solução de alto desempenho usando grafos - Turma 11 - Comgás
+# 🙋 2025.1  - Módulo 5: Solução de alto desempenho usando grafos - Turma 11 - Comgás
 
 
 ## 🎯 O objetivo:
