@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.google.com/imgres?q=comgas&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FUlMXMtnO__V29vhZGfD33_tEKrAGaoEDEfotUTlMRgpIEiunInBIlQHFOKWNidT08-g&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.comgas.virtual%26hl%3Dpt_BR&docid=wWF8M2AlxmcaEM&tbnid=mr5ss51YAghoXM&vet=12ahUKEwjC26zB-8KNAxUmD7kGHfAqAaMQM3oECBYQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjC26zB-8KNAxUmD7kGHfAqAaMQM3oECBYQAA">
+    <img src="https://play-lh.googleusercontent.com/UlMXMtnO__V29vhZGfD33_tEKrAGaoEDEfotUTlMRgpIEiunInBIlQHFOKWNidT08-g">
 </div>
 
 
